@@ -1,3 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on MD/PhD Association for Clincial Research Outcomes</title><link>/services/</link><description>Recent content in Research on MD/PhD Association for Clincial Research Outcomes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Logistics</title><link>/services/logisics/</link><pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate><guid>/services/logisics/</guid><description>Overview of becoming a member ***</description></item><item><title>Didactics</title><link>/services/didactics/</link><pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate><guid>/services/didactics/</guid><description>In order to ***</description></item><item><title>Mentors</title><link>/services/mentor/</link><pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate><guid>/services/mentor/</guid><description>In order to ***</description></item><item><title>Project Ideas</title><link>/services/projideas/</link><pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate><guid>/services/projideas/</guid><description>Find project</description></item><item><title>News</title><link>/services/news/</link><pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate><guid>/services/news/</guid><description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on MD/PhD Association for Clincial Research Outcomes</title>
+    <link>/services/</link>
+    <description>Recent content in Research on MD/PhD Association for Clincial Research Outcomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logistics</title>
+      <link>/services/logisics/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/logisics/</guid>
+      <description>Overview of becoming a member ***</description>
+    </item>
+    
+    <item>
+      <title>Didactics</title>
+      <link>/services/didactics/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/didactics/</guid>
+      <description>In order to ***</description>
+    </item>
+    
+    <item>
+      <title>Mentors</title>
+      <link>/services/mentor/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/mentor/</guid>
+      <description>In order to ***</description>
+    </item>
+    
+    <item>
+      <title>Project Ideas</title>
+      <link>/services/projideas/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/projideas/</guid>
+      <description>Find project</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/services/news/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>/services/news/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description></item></channel></rss>
+Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+    </item>
+    
+  </channel>
+</rss>
