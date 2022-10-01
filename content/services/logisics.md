@@ -6,9 +6,9 @@ featured: true
 weight: 1
 ---
 
-Overview of MACRO program and how to become a member
-&nbsp;
-&nbsp;
+Below you will find an overview of the MACRO program and how to become a member (it's free)! For any specific logistical questions, please contact the student directors.    
+
+
 
 The MD/PhD Association for Clinical Research Outcomes was formed in the Fall of 2018 by Cameron Adams and Dayne Filer, when as students on the wards, they began to question current clinical practices and sought to form a sphere that promoted this type of clinical questioning and research. Recently (Fall 2022), the program has been revitalized by Nick Brazeau and Cameron Adams to continue with this initiative that was disrupted by PhD responsibilities, the COVID-19 pandemic, and other duties.  
 
