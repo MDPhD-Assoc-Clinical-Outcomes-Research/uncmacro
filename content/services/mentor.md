@@ -6,4 +6,22 @@ draft: false
 weight: 3
 ---
 
-In order to ***
+These faculty members have agreed to help students find research projects and mentors tailored to their interests. Emails will be available through the UNC Outlook directory.
+
+## Cardiology
+
+
+## Infectious Diseases
+- [Jonathan Parr](https://www.med.unc.edu/medicine/infdis/ideel/directory/jonathan-parr/)
+
+## Endocrinology
+
+## Gastroenterology
+
+## Pulmonology
+
+## Rheumatology   
+
+## Allergy & Immunology    
+
+## Surgery

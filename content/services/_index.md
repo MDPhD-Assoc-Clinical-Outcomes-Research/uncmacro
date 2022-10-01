@@ -7,5 +7,5 @@ intro_image_hide_on_mobile: false
 ---
 
 # Promoting your Growth as a Translational and Clinical Researcher
-
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+The tabs below contain information on becoming a member, upcoming events, and how we can support your research and career!
+# &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr;

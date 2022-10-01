@@ -20,10 +20,10 @@ title = "MD/PhD Association for Clincial Research Outcomes"
 
   [params.logo]
 # NFB to do svg image in W3
-#    mobile = "images/logo/logo-mobile.svg"
-#    mobile_height = "36px"
-#    desktop = "images/logo/logo.svg"
-#    desktop_height = "36px"
+    mobile = "images/logo/macrologo.png"
+    mobile_height = "36px"
+    desktop = "images/logo/macrologo.png"
+    desktop_height = "36px"
     alt = "MD/PhD Association for Clincial Research Outcomes"
 
   [params.fonts]
@@ -51,7 +51,7 @@ title = "MD/PhD Association for Clincial Research Outcomes"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Promoting reproducible and representative research'
+    copyright_text = 'Promoting rigorous, reproducible, and representative research'
 
 [menu]
   # Main Menu
@@ -64,7 +64,7 @@ title = "MD/PhD Association for Clincial Research Outcomes"
     name = "Members"
     url = "/team/"
     weight = 2
-  
+
   # [[menu.main]]
   #   name = "News"
   #   url = "/news/"

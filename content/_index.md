@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # MD/PhD Association for Clinical Research
 
-The MACRO program promotes _reproducible and representative_ clinical and translational research at the University of North Carolina School of Medicine
+The MACRO program promotes _rigorous, reproducible, and representative_ clinical and translational research at the University of North Carolina School of Medicine
